@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @thepablou
+- 👀 meu gmail de contato é srpablo720@gmail.com
+- 🌱 eu estou interessado em aprender a programar
+- 💞️ aprendi a programar recentemente JavaScript e Scratch
